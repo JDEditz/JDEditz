@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hi, I'm JDEditz! 👋<br>I'm Janindu Damsara, but you can call me JDEditz. I’m an aspiring Full-Stack Web Developer currently learning HTML, CSS, JavaScript, and Python. My goal is to build a strong foundation to eventually work with backend technologies and databases.<br><br>
 
+🚀 Current Projects:
+
+AgroCart Website: Working on a website related to the AgroCart company, focused on creating e-commerce features.
+<br>
+
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BedwarsN) 
 
@@ -14,13 +19,4 @@ Hi, I'm JDEditz! 👋<br>I'm Janindu Damsara, but you can call me JDEditz. I’m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JDEditz&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JDEditz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=JDEditz&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
