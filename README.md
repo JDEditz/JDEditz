@@ -1,69 +1,85 @@
-# 💫 Janindu Damsara — JDEditz
-
-Hey! I'm **Janindu Damsara**, also known as **JDEditz** 👋  
-I'm an aspiring **Full-Stack Developer** and **Creative Editor** passionate about building clean, efficient digital experiences.  
-I’m currently improving my web development skills while exploring the creative side of content editing and UI design.
+<h1 align="center">Hi, I'm Janindu Damsara 👋</h1>
+<p align="center">Aspiring Full-Stack Developer | Code Enthusiast | Creative Thinker</p>
 
 ---
 
-## 🚀 Projects
+### 🚀 About Me
 
-🔹 **Rock Paper Scissors Game** — A simple interactive game built using JavaScript  
-🔹 **Simple Clock** — A clean digital clock with real-time updates  
-🔹 **Portfolio Website** — My personal site to showcase skills and projects  
-
-> All projects available in my pinned repositories 👇
-
----
-
-## 📚 Currently Learning
-
-- **Frontend**: HTML, CSS, JavaScript, React, TypeScript  
-- **Backend Basics**: Python  
-- **Design & Editing**: After Effects, Photoshop, Premiere Pro  
-- **Version Control**: Git & GitHub  
-- **Problem Solving**: Basic DSA concepts and logic building
+- 🔭 Currently learning **React**, **TypeScript**, and **Python**
+- 🧠 Exploring the world of **frontend frameworks** and **logic building**
+- 🎯 Goal: Build modern, clean apps while mastering core fundamentals
+- 🎨 Also dabble in **video editing** and **UI/UX design**
 
 ---
 
-## 🧰 Tech & Tools
+### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Languages & Frameworks**
 
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
+**Design & Tools**
 
-## 🌐 Connect With Me
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BedwarsN)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=JDEditz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=JDEditz&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JDEditz&theme=dark&hide_border=true&layout=compact)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+### 📂 Featured Projects
 
-![](https://github-profile-trophy.vercel.app/?username=JDEditz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| 🔸 **Rock Paper Scissors Game** | Simple interactive browser game | JS, HTML, CSS |
+| 🔸 **Digital Clock** | Real-time clock using DOM manipulation | JS, HTML, CSS |
+| 🔸 **Portfolio Website** | Personal site showcasing my skills | HTML, CSS, Vanilla JS |
+
+> More coming soon...
 
 ---
 
-## 📜 Daily Quote
+### 📈 GitHub Insights
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JDEditz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JDEditz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDEditz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JDEditz&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://youtube.com/@BedwarsN">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</p>
+
+---
+
+### ✨ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Motivational Quote" />
+</p>
 
 ---
