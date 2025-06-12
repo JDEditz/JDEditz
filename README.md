@@ -1,55 +1,48 @@
-<h1 align="center">Hi 👋, I'm Janindu Damsara</h1>
-<h3 align="center">Self-Taught Programmer | Focused on TypeScript & React</h3>
+# 💫 About Me:
+Hi, I'm JDEditz! 👋  
+I'm Janindu Damsara — a passionate Web Developer focused on building clean, responsive, and functional websites. I specialize in front-end development while continuously sharpening my back-end skills. My current goal is to master full-stack development and build powerful, real-world projects.
+
+🔗 **My Portfolio:** [janindudamsara.netlify.app](https://janindudamsara.netlify.app)
 
 ---
 
-### 🔥 About Me
-
-- 🌱 Currently learning: **React**, **TypeScript**, and sharpening frontend skills
-- 💻 All of my projects are available at: [janindudamsara.netlify.app](https://janindudamsara.netlify.app)
-- 📫 Reach me: **janindudamsara@gmail.com**
-- 🧠 Constantly improving logic, UI, and dev workflow
-- ⚡ Fun fact: I can get obsessed with code for hours if the flow hits right.
+## 🚀 Projects I'm Working On:
+- **💼 Personal Portfolio** – Fully responsive site built with HTML/CSS/JS.
+- **🕹️ Rock Paper Scissors Game** – A fun browser game built with JavaScript.
+- **🕒 Simple Clock** – A real-time clock made using vanilla JS.
+- **🛒 AgroCart Website** – E-commerce features for an agriculture-based website.
 
 ---
 
-### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 🧪 Projects
-
-- 🎮 **Rock Paper Scissors Game** – HTML/CSS/JS mini-game
-- ⏰ **Simple Clock App** – Digital clock in real time
-- 💼 **Portfolio Website** – [janindudamsara.netlify.app](https://janindudamsara.netlify.app)
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-### 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JDEditz&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JDEditz&theme=radical" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDEditz&layout=compact&theme=radical" width="50%" />
-</div>
+## 🎨 Creative Tools:
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📫 Social
+## 🌐 Connect With Me:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BedwarsN)
 
-<p align="left">
-  <a href="https://youtube.com/@BedwarsN" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-</p>
+---
+
+## 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=JDEditz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+> _"First, learn the rules. Then, bend them like a master."_  
+> — Personal Growth is a Daily Quest 🎯
+
