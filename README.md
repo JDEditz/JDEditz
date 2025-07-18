@@ -34,6 +34,7 @@ const janindu = {
   funFact: 'I debug with console.log and I\'m not ashamed'
 };
 ```
+---
 
 ## 🚀 Projects I'm Working On:
 - **💼 FakePixel Party Finder** – A custom party-finding tool for FakePixel SkyBlock Dungeons.
@@ -41,8 +42,8 @@ const janindu = {
 - **🕒 Simple Clock** – A real-time clock made using vanilla JS.
 - **🛒 AgroCart Website** – E-commerce features for an agriculture-based website
 
-
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
