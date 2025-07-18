@@ -1,25 +1,21 @@
-# 👋 Hi, I’m JDEditz (Janindu Damsara)
+# 💫 About Me:
+Hi, I'm JDEditz! 👋  
+I'm Janindu Damsara — a passionate Web Developer focused on building clean, responsive, and functional websites. I specialize in front-end development while continuously sharpening my back-end skills. My current goal is to master full-stack development and build powerful, real-world projects.
 
-![Profile Banner](https://your-custom-banner-url.com/banner.png) <!-- Optional -->
-
----
-
-### 💫 About Me
-I'm a passionate **Full-Stack Web Developer** focused on building clean, responsive, and powerful web apps.  
-Currently mastering **React**, **TypeScript**, and improving my backend skills with **Node.js** and **Python**.  
-My goal: Create impactful real-world projects that solve problems and look great.
+🔗 **My Portfolio:** [janindudamsara.netlify.app](https://janindudamsara.netlify.app)
 
 ---
 
-### 🚀 Projects I’m Building
-- **🎯 FakePixel Party Finder** — Smart party search tool for FakePixel SkyBlock Dungeons  
-- **💰 Networth Tracker (Draft)** — Player stat tracker prototype for FakePixel  
-- **🕹️ Rock Paper Scissors Game** — Classic browser game made with vanilla JS  
-- **🕒 Real-Time Clock** — Simple, clean digital clock built with JS
+## 🚀 Projects I'm Working On:
+- **💼 FakePixel Party Finder** – A custom party-finding tool for FakePixel SkyBlock Dungeons.
+- **🕹️ Networth Tracker (Draft)** – A prototype project to track and visualize FakePixel user profiles (API pending).
+- **🕒 Simple Clock** – A real-time clock made using vanilla JS.
+- **🛒 AgroCart Website** – E-commerce features for an agriculture-based website
+
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +25,7 @@ My goal: Create impactful real-world projects that solve problems and look great
 
 ---
 
-### 🎨 Creative Tools
+## 🎨 Creative Tools:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -38,17 +34,13 @@ My goal: Create impactful real-world projects that solve problems and look great
 
 ---
 
-### 🌐 Find Me Here
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BedwarsN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://janindudamsara.netlify.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDEditz)
+## 🌐 Connect With Me:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BedwarsN)
 
 ---
 
-### 🏆 GitHub Stats
-
-![JDEditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDEditz&show_icons=true&theme=dark&count_private=true)
+## 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=JDEditz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
