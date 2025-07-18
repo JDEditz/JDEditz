@@ -7,7 +7,7 @@ I'm Janindu Damsara — a passionate Web Developer focused on building clean, re
 ---
 
 ## 🚀 Projects I'm Working On:
-- **💼 🎯 FakePixel Party Finder** – A custom party-finding tool for FakePixel SkyBlock Dungeons.
+- **💼 FakePixel Party Finder** – A custom party-finding tool for FakePixel SkyBlock Dungeons.
 - **🕹️ Networth Tracker (Draft)** – A prototype project to track and visualize FakePixel user profiles (API pending).
 - **🕒 Simple Clock** – A real-time clock made using vanilla JS.
 - **🛒 AgroCart Website** – E-commerce features for an agriculture-based website
