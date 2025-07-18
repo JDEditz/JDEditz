@@ -35,63 +35,14 @@ const janindu = {
 };
 ```
 
----
+## 🚀 Projects I'm Working On:
+- **💼 FakePixel Party Finder** – A custom party-finding tool for FakePixel SkyBlock Dungeons.
+- **🕹️ Networth Tracker (Draft)** – A prototype project to track and visualize FakePixel user profiles (API pending).
+- **🕒 Simple Clock** – A real-time clock made using vanilla JS.
+- **🛒 AgroCart Website** – E-commerce features for an agriculture-based website
 
-## 🚧 Current Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💼 FakePixel Party Finder
-**Custom Dungeon Tool**
-- Real-time party matching
-- Advanced filtering system
-- Clean, intuitive UI
-
-*Tech: JavaScript, HTML, CSS*
-
-</td>
-<td width="50%">
-
-### 🕹️ Networth Tracker
-**Profile Analytics Dashboard**
-- Data visualization
-- User profile tracking
-- API integration ready
-
-*Tech: React, TypeScript*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 AgroCart Platform
-**E-commerce Solution**
-- Agriculture marketplace
-- Payment integration
-- Responsive design
-
-*Tech: React, Node.js*
-
-</td>
-<td width="50%">
-
-### 🕒 Real-Time Clock
-**Vanilla JS Project**
-- Live time display
-- Multiple timezone support
-- Minimalist design
-
-*Tech: Vanilla JavaScript*
-
-</td>
-</tr>
-</table>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
