@@ -2,9 +2,6 @@
 
 > Building systems. Not chasing motivation.
 
-<iframe width="110" height="200" src="https://www.myinstants.com/instant/furina-jaja-n-audio-89396/embed/" frameborder="0" scrolling="no"></iframe>
----
-
 ## 🧠 About Me
 - 🎯 Full-Stack Developer with a strong **CS + problem-solving** focus  
 - 🧩 Interested in **scalable systems, AI foundations, and real products**
