@@ -3,44 +3,36 @@
 > Building systems. Not chasing motivation.
 
 ## 🧠 About Me
-- 🎯 Full-Stack Developer with a strong **CS + problem-solving** focus  
-- 🧩 Interested in **scalable systems, AI foundations, and real products**
-- 🛠️ I learn by **building, shipping, and iterating**
-- 📉 I cut noise. I compound skills.
+- 🎯 Game Developer with a dream to make games ( that's obvious yeah lol) 
+- 🧩 Interested in **Game Dev, Computer Science  and Anime**
+- 🛠️ I learn by **building, shipping, and iterating** ( But Im Sucks)
+- 📉 I'll do My best even if I'm not the best
 
 ---
 
 ## 🚀 2026 Focus
-This year is execution, not decoration.
 
-- 🧠 Core Computer Science (DSA, fundamentals)
-- 🤖 AI & automation (applied, not hype)
-- 🧪 Projects > tutorials
-- ⚙️ Discipline > motivation
+- Making My Own Games
+- Learning CS Basics
+- Starting Content Creation
 
 ---
 
 ## 🧪 Current Projects
-- 🔹 **FakePixel Party Finder** — custom dungeon party system
-- 🔹 **Networth Tracker (Draft)** — user data visualization (API pending)
-- 🔹 **AgroCart Website** — agriculture-based e-commerce features
-- 🔹 Small JS tools & experiments (clock, utilities, prototypes)
-
-> If it doesn’t scale or teach fundamentals, it gets dropped.
+- Stuck In Studies lol
+- But Making a game
 
 ---
 
-## 🧰 Tech Stack (Evolving)
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS  
-- **Frameworks:** React, Node.js  
-- **Tools:** Git, Linux, VS Code, Figma  
-- **Creative:** Photoshop, Illustrator, Premiere Pro, After Effects  
+## 🧰 Tech Stack
+- **Languages:** Python, JS , GDScript
+- **Tools:** Git, Trello
+- **Creative:** Photoshop, Premiere Pro, After Effects  
 
-*(Stack evolves based on project needs — not trends.)*
 
 ---
 
-## 📈 Philosophy
+## 📈 Philosophy ( well gotta follow it !)
 - Consistency beats intensity  
 - Identity > goals  
 - Long-term games only  
@@ -49,7 +41,7 @@ This year is execution, not decoration.
 
 ## 📫 Connect
 - 🌐 Portfolio: https://janindudamsara.netlify.app  
-- 📺 YouTube: https://youtube.com/@BedwarsN  
+- 📺 YouTube: https://youtube.com/@BedwarsN
 - 🧑‍💻 GitHub: https://github.com/JDEditz  
 
 ---
